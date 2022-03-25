@@ -1,0 +1,17 @@
+.main{
+    width: 350px;
+    margin: auto;
+}
+.r1,.r2,.r3,.r4,.r5,.r6{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.box{
+    width: 60px;
+    /* background-color: aqua; */
+    margin: 10px;
+    height: 60px;
+    outline:1px solid black;
+    border-radius: 5px;
+}
