@@ -1,5 +1,9 @@
-.main{
-    width: 350px;
+body{
+    background-color: black;
+    color: white;
+}
+main{
+    width: 400px;
     margin: auto;
 }
 .r1,.r2,.r3,.r4,.r5,.r6{
@@ -10,8 +14,14 @@
 .box{
     width: 60px;
     /* background-color: aqua; */
-    margin: 10px;
+    margin: 5px;
     height: 60px;
-    outline:1px solid black;
-    border-radius: 5px;
+    outline:1px solid lightgrey;
+    border-radius: 2px;
+    background-color: #222222;
+    font-size: 50px;
+    text-align: center;
+}
+h1{
+    margin:auto;
 }
